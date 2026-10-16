@@ -31,3 +31,4 @@ Then open http://localhost:5173. On Windows you can double-click `Open website.c
 
 An unofficial fan project, made for fun and never sold. ONE PIECE is © Eiichiro Oda / Shueisha and Toei Animation; the artwork and footage belong to their creators. Built with GSAP, Lenis and Google Fonts.
 "# One-Piece" 
+# One-Piece  
